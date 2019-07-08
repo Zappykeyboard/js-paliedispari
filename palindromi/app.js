@@ -10,4 +10,4 @@ function isPalindrome(word) {
 
 var input = prompt("Inserisci una parola o frase");
 
-console.log(isPalindrome(""));
+console.log(isPalindrome(input));
