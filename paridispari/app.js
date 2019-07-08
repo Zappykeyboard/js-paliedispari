@@ -8,10 +8,10 @@ function generaRandom(){
 
 //generiamo i numeri
 var primoNumero = generaRandom();
-console.log("primo numero è " + primoNumero);
+console.log("il primo numero è " + primoNumero);
 
 var secondoNumero = generaRandom();
-console.log("secondo numero numero è " + secondoNumero);
+console.log("il secondo numero è " + secondoNumero);
 
 var sum = primoNumero + secondoNumero;
 
